@@ -1,0 +1,84 @@
+.main-body {
+  max-width: 1200px;
+  height: 800px;
+  display: block;
+  margin: 50px auto;
+}
+
+.submit-button {
+  width: 120px;
+  border: 1px solid #0d9b59;
+  background: #0d9b59;
+  color: #fff;
+  font-size: 16px;
+  padding: 16px 12px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+.current-location {
+  border: 1px solid #145de4;
+  background: #145de4;
+  color: #fff;
+  font-size: 16px;
+  padding: 16px 12px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+
+input {
+  font-size: 16px;
+  padding: 16px 12px;
+  border-radius: 30px;
+}
+
+.temperature {
+  font-size: 70px;
+}
+.temp-card {
+  height: 490px;
+}
+
+button.time {
+  border: 1px solid #145de4;
+  background-color: transparent;
+  color: #145de4;
+  font-size: 16px;
+  padding: 16px 12px;
+  border-radius: 30px;
+  cursor: pointer;
+}
+.result-card {
+  height: 682px;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+  text-align: center;
+}
+
+li.result {
+  border-radius: 10px;
+  border: 1px solid #145de4;
+  margin: 70px auto;
+  padding: 10px 0;
+}
+
+.result-edge {
+  margin: 50px 0px;
+  border-radius: 10px;
+  border: 1px solid #145de4;
+  padding: 10px 0;
+}
+
+.fa-cloud-sun {
+  font-size: 100px;
+}
+
+.extra-info {
+  padding-top: 50px;
+}
